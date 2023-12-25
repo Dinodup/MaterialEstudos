@@ -1,0 +1,361 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ev{
+    color: white;
+    margin-top: 10px;
+    float: right;
+    margin: 10px;
+}
+
+.card-text img{
+    text-align: center;
+    border: none 1px;
+    -moz-transition: all 5s;
+    -webkit-transition: all 0.5;
+    transition: all 0.5;
+}
+
+.card-text img:hover{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/**********************************************************/
+
+#areas{
+    background-color: wheat;
+}
+
+#areas img{
+    width: 250px;
+}
+
+#areas div{
+    text-align: center;
+    margin-left: 57px;
+    padding: auto;
+    float: left;
+    color: black;
+    background-color: #343a40;
+}
+
+
+#areas div img{
+    border: none 1px;
+    -moz-transition: all 5s;
+    -webkit-transition: all 0.5;
+    transition: all 0.5;
+}
+
+#areas div img:hover{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#areas h4{
+    color: whitesmoke;
+}
+
+#areas a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.estudos{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+/**********************************************************/
+#Linguagens{
+    height: 600px;
+    text-align: center;
+}
+
+/**********************************************************/
+
+#RM{
+    height: 700px;
+    font-size: 30px;
+    text-align: center;
+}
+#RM div{
+    margin-left: 465px;
+}
+
+/**********************************************************/
+#Humanas{
+    height: 600px;
+    font-size: 30px;
+    text-align: center;
+}
+#Humanas div{
+    margin-left: 180px;
+}
+
+/**********************************************************/
+
+#Natureza{
+    height: 600px;
+    font-size: 30px;
+    text-align: center;
+}
+#Natureza div{
+    margin-left: 290px;
+}
+
+/**********************************************************/
+
+
+@media (max-width: 575.98px) { 
+    
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .ev{
+        color: white;
+        margin-top: 10px;
+        float: right;
+        margin: 10px;
+    }
+    
+    .card-text img{
+        text-align: center;
+        border: none 1px;
+        -moz-transition: all 5s;
+        -webkit-transition: all 0.5;
+        transition: all 0.5;
+    }
+    
+    .card-text img:hover{
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    /**********************************************************/
+    
+    #areas{
+        background-color: wheat;
+    }
+    
+    #areas img{
+        width: 250px;
+    }
+    
+    #areas div{
+        text-align: center;
+        padding: auto;
+        float: left;
+        color: black;
+        background-color: #343a40;
+        margin: 20px;
+        margin-left: 65px;
+        float: left;
+        position: relative;
+    }
+    
+    
+    #areas div img{
+        border: none 1px;
+        -moz-transition: all 5s;
+        -webkit-transition: all 0.5;
+        transition: all 0.5;
+    }
+    
+    #areas div img:hover{
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    #areas h4{
+        color: whitesmoke;
+    }
+    
+    #areas a{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    .estudos{
+        padding-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    /**********************************************************/
+    #Linguagens{
+        height: 2870px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+    
+    #RM{
+        height: 1200px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+    #Humanas{
+        height: 1950px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    
+    /**********************************************************/
+    
+    #Natureza{
+        height: 1600px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+
+    .footer{
+        float: left;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+        
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .ev{
+        color: white;
+        margin-top: 10px;
+        float: right;
+        margin: 10px;
+    }
+    
+    .card-text img{
+        text-align: center;
+        border: none 1px;
+        -moz-transition: all 5s;
+        -webkit-transition: all 0.5;
+        transition: all 0.5;
+    }
+    
+    .card-text img:hover{
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    /**********************************************************/
+    
+    #areas{
+        background-color: wheat;
+    }
+    
+    #areas img{
+        width: 250px;
+    }
+    
+    #areas div{
+        text-align: center;
+        padding: auto;
+        float: left;
+        color: black;
+        background-color: #343a40;
+        margin: 20px;
+        margin-left: 65px;
+        float: left;
+        position: relative;
+    }
+    
+    
+    #areas div img{
+        border: none 1px;
+        -moz-transition: all 5s;
+        -webkit-transition: all 0.5;
+        transition: all 0.5;
+    }
+    
+    #areas div img:hover{
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    #areas h4{
+        color: whitesmoke;
+    }
+    
+    #areas a{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    .estudos{
+        padding-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    /**********************************************************/
+    #Linguagens{
+        height: 1900px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+    
+    #RM{
+        height: 800px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+    #Humanas{
+        height: 900px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    
+    /**********************************************************/
+    
+    #Natureza{
+        height: 900px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    /**********************************************************/
+
+    .footer{
+        float: left;
+    }
+
+    
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+ }
+
+@media (min-width: 1200px) { 
+    
+ }
